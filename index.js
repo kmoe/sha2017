@@ -1,7 +1,7 @@
 var pn532 = require('pn532');
-var SerialPort = require('serialport').SerialPort;
+var SerialPort = require('serialport');
 
-var serialPort = new SerialPort('ttyUSB0', { baudrate: 115200 });
+var serialPort = new SerialPort('/dev/ttyUSB0', { baudrate: 115200 });
 
 var options = {
   pollInterval: 500
