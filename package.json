@@ -1,0 +1,23 @@
+{
+  "name": "sha2017",
+  "version": "0.0.1",
+  "description": "node innit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmoe/sha2017.git"
+  },
+  "author": "Katy Moe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmoe/sha2017/issues"
+  },
+  "homepage": "https://github.com/kmoe/sha2017#readme",
+  "dependencies": {
+    "pn532": "^0.1.0",
+    "serialport": "^5.0.0-beta7"
+  }
+}
