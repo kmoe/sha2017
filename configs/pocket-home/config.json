@@ -15,14 +15,14 @@
           "shell": "pico8"
         },
         {
-          "name": "Make Music",
+          "name": "Phase",
           "icon": "appIcons/musicsequencer.png",
-          "shell": "sunvox"
+          "shell": "phase"
          },
          {
-          "name": "Get Help",
-          "icon": "appIcons/help.png",
-          "shell": "surf /usr/share/pocketchip-localdoc/index.html"
+          "name": "Another Terminal",
+          "icon": "appIcons/calculator.png",
+          "shell": "lxterminal"
         },
         {
           "name": "Write",
@@ -30,9 +30,9 @@
           "shell": "leafpad"
         },
         {
-          "name": "Browse Files",
-          "icon": "appIcons/filebrowser.png",
-          "shell": "pcmanfm"
+          "name": "Lynx",
+          "icon": "appIcons/webbrowser.png",
+          "shell": "lynx"
         },
       ],
       "cornerButtons": [
