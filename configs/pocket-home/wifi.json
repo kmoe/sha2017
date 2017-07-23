@@ -1,0 +1,77 @@
+[
+  {
+    "name" : "MyFi",
+    "strength" : 99,
+    "auth" : true
+  },
+  {
+    "name" : "Hotspot",
+    "strength" : 45,
+    "auth" : false
+  },
+    {
+    "name" : "SF Wifi",
+    "strength" : 3,
+    "auth" : false
+  },
+  {
+    "name" : "The Hive",
+    "strength" : 22,
+    "auth" : true
+  },
+    {
+    "name" : "2WIRE454",
+    "strength" : 47,
+    "auth" : true
+  },
+  {
+    "name" : "Free Wifi",
+    "strength" : 0,
+    "auth" : false
+  },
+    {
+    "name" : "ATT3453",
+    "strength" : 88,
+    "auth" : true
+  },
+  {
+    "name" : "NETGEAR",
+    "strength" : 64,
+    "auth" : true
+  },
+ {
+    "name" : "HOME-F898",
+    "strength" : 7,
+    "auth" : true
+  },
+  {
+    "name" : "DLINK",
+    "strength" : 12,
+    "auth" : true
+  },
+  {
+    "name" : "NTC",
+    "strength" : 32,
+    "auth" : true
+  },
+  {
+    "name" : "Public WiFi",
+    "strength" : 29,
+    "auth" : false
+  },
+  {
+    "name" : "LinkSys",
+    "strength" : 94,
+    "auth" : true
+  },
+  {
+    "name" : "Cisco",
+    "strength" : 55,
+    "auth" : true
+  },
+  {
+    "name" : "xfinitywifi",
+    "strength" : 1,
+    "auth" : false
+  }
+]
