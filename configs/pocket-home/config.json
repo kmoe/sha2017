@@ -10,7 +10,7 @@
           "shell": "vala-terminal -fs 8 -g 20 20"
         },
         {
-          "name": "Play PICO-8",
+          "name": "PICO-8",
           "icon": "appIcons/pico8.png",
           "shell": "pico8"
         },
@@ -30,9 +30,9 @@
           "shell": "leafpad"
         },
         {
-          "name": "Lynx",
+          "name": "Web",
           "icon": "appIcons/webbrowser.png",
-          "shell": "lynx"
+          "shell": "surf http://katy.moe"
         },
       ],
       "cornerButtons": [
